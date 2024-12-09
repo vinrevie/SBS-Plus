@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|c:\\users\\pekarnya\\source\\repos\\sbs plus\\sbs plus\\classes\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|solutionrelative:sbs plus\\classes\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\sbs plus\\classes\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|solutionrelative:sbs plus\\classes\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\sbs plus\\classes\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|solutionrelative:sbs plus\\classes\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|c:\\users\\pekarnya\\source\\repos\\sbs plus\\sbs plus\\classes\\editors\\wordeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|solutionrelative:sbs plus\\classes\\editors\\wordeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\sbs plus\\windows\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|solutionrelative:sbs plus\\windows\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\sbs plus\\windows\\neworgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|solutionrelative:sbs plus\\windows\\neworgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\sbs plus\\windows\\neworgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|solutionrelative:sbs plus\\windows\\neworgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\sbs plus\\classes\\classesadder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|solutionrelative:sbs plus\\classes\\classesadder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\sbs plus\\windows\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|solutionrelative:sbs plus\\windows\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\sbs plus\\classes\\editors\\exceleditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|solutionrelative:sbs plus\\classes\\editors\\exceleditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\sbs plus\\classes\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7F53C2-D041-41CB-8897-EAC09C15CB73}|SBS Plus\\SBS Plus.csproj|solutionrelative:sbs plus\\classes\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Work.cs",
+              "DocumentMoniker": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Classes\\Work.cs",
+              "RelativeDocumentMoniker": "SBS Plus\\Classes\\Work.cs",
+              "ToolTip": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Classes\\Work.cs",
+              "RelativeToolTip": "SBS Plus\\Classes\\Work.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T01:50:28.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Classes\\Organization.cs",
+              "RelativeDocumentMoniker": "SBS Plus\\Classes\\Organization.cs",
+              "ToolTip": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Classes\\Organization.cs",
+              "RelativeToolTip": "SBS Plus\\Classes\\Organization.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:11:28.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Classes\\Contract.cs",
+              "RelativeDocumentMoniker": "SBS Plus\\Classes\\Contract.cs",
+              "ToolTip": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Classes\\Contract.cs",
+              "RelativeToolTip": "SBS Plus\\Classes\\Contract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:11:01.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewOrgForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Windows\\NewOrgForm.cs",
+              "RelativeDocumentMoniker": "SBS Plus\\Windows\\NewOrgForm.cs",
+              "ToolTip": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Windows\\NewOrgForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SBS Plus\\Windows\\NewOrgForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:20:14.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClassesAdder.cs",
+              "DocumentMoniker": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Classes\\ClassesAdder.cs",
+              "RelativeDocumentMoniker": "SBS Plus\\Classes\\ClassesAdder.cs",
+              "ToolTip": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Classes\\ClassesAdder.cs",
+              "RelativeToolTip": "SBS Plus\\Classes\\ClassesAdder.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAYwIEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:11:05.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExcelEditor.cs",
+              "DocumentMoniker": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Classes\\Editors\\ExcelEditor.cs",
+              "RelativeDocumentMoniker": "SBS Plus\\Classes\\Editors\\ExcelEditor.cs",
+              "ToolTip": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Classes\\Editors\\ExcelEditor.cs",
+              "RelativeToolTip": "SBS Plus\\Classes\\Editors\\ExcelEditor.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwHcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:13:29.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Windows\\MainWindow.cs",
+              "RelativeDocumentMoniker": "SBS Plus\\Windows\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Windows\\MainWindow.cs",
+              "RelativeToolTip": "SBS Plus\\Windows\\MainWindow.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAIAwwHIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:45:21.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordEditor.cs",
+              "DocumentMoniker": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Classes\\Editors\\WordEditor.cs",
+              "RelativeDocumentMoniker": "SBS Plus\\Classes\\Editors\\WordEditor.cs",
+              "ToolTip": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Classes\\Editors\\WordEditor.cs",
+              "RelativeToolTip": "SBS Plus\\Classes\\Editors\\WordEditor.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAD4v30AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:24:44.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewOrgForm.cs",
+              "DocumentMoniker": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Windows\\NewOrgForm.cs",
+              "RelativeDocumentMoniker": "SBS Plus\\Windows\\NewOrgForm.cs",
+              "ToolTip": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Windows\\NewOrgForm.cs",
+              "RelativeToolTip": "SBS Plus\\Windows\\NewOrgForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswJkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:20:16.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Classes\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "SBS Plus\\Classes\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Classes\\ApplicationContext.cs",
+              "RelativeToolTip": "SBS Plus\\Classes\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:47:12.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Windows\\MainWindow.cs",
+              "RelativeDocumentMoniker": "SBS Plus\\Windows\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\Pekarnya\\source\\repos\\SBS Plus\\SBS Plus\\Windows\\MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SBS Plus\\Windows\\MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:53:44.694Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
